@@ -1,0 +1,38 @@
+h1 {
+  font-family: 'Courier New', Courier, monospace;
+}
+
+p.second {
+  font-style: italic;
+}
+
+.important {
+  font-style: bold;
+  color: red;
+}
+
+.highlight {
+  background-color: yellow;
+}
+
+.sidebar {
+  width: 33%;
+  float: right;
+  background-color: darkcyan;
+  border-style: dashed;
+  border-color: darkblue;
+  box-sizing: border-box;
+  padding: 10px;
+}
+
+.column {
+  width: 33%;
+  float: left;
+  box-sizing: border-box;
+  padding: 10px;
+}
+
+#google {
+  color: fuchsia;
+  background-color: black;
+}
